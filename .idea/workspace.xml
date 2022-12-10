@@ -135,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670706848083</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework">
+      <created>1670706901446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670706901446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework">
+      <created>1670707153074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670707153074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Homework" />
+    <MESSAGE value="Homework2" />
     <MESSAGE value="Homework" />
     <option name="LAST_COMMIT_MESSAGE" value="Homework" />
   </component>
